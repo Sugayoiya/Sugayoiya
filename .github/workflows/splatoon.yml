@@ -1,15 +1,24 @@
-name: splatoon actions
-
 on:
   # allows to manually run the job at any time
   workflow_dispatch:
+
   
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          
       - name: Splatnet data
         uses: lowlighter/metrics@latest
         with:
