@@ -1,13 +1,20 @@
-name: splatnet data
+name: splatoon actions
 
 on:
   # allows to manually run the job at any time
   workflow_dispatch:
-
-jobs: lowlighter/metrics@latest
-env:
-  filename: metrics.plugin.splatoon.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_splatoon: yes
-  plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
+  
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Splatnet data
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.splatoon.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_splatoon: yes
+          plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
