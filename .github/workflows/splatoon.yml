@@ -1,0 +1,13 @@
+name: splatnet data
+
+on:
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+jobs: lowlighter/metrics@latest
+env:
+  filename: metrics.plugin.splatoon.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_splatoon: yes
+  plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
