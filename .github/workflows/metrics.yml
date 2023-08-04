@@ -56,7 +56,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_leetcode_user: mokou-73
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_steam: yes
@@ -66,7 +66,7 @@ jobs:
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user: 76561198101680393
+          plugin_steam_user: "76561198101680393"
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
