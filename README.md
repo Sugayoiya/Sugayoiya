@@ -6,12 +6,14 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-dark.svg">
     </picture>
   </a>
+  <!-- comes from https://github.com/Sugayoiya/skill-icons --> 
 </p>
 
 <p align="center">
   <a href="https://github.com/Sugayoiya">
     <img src="https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&theme=onedark&no-bg=true" />
   </a>
+  <!-- comes from https://github.com/Sugayoiya/github-profile-trophy --> 
 </p>
 
 
