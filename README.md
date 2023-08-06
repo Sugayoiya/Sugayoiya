@@ -1,22 +1,16 @@
 <p align="center">
   <a href="https://github.com/Sugayoiya">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-light.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-dark.svg">
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Sugayoiya">
     <img src="https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sugayoiya">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=light">
-      <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=dark">
-    </picture>
   </a>
 </p>
 
