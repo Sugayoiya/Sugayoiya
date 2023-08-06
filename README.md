@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/Sugayoiya">
-    <picture>
+    <img>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=light">
       <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=light">
-    </picture>
+    </img>
   </a>
 </p>
 
