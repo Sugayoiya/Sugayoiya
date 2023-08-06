@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<p align="center">
+<div style="text-align: center;">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true)](https://github.com/Sugayoiya/Sugayoiya)
-</p>p
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/github-contribution-grid-snake-dark.svg">
