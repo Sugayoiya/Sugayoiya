@@ -4,8 +4,14 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sugayoiya">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true" />
+  </a>
+</p>
+
 <div style="text-align: center;">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true)](https://github.com/Sugayoiya/Sugayoiya)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true)]()
 </div>
 
 <picture>
