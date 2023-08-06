@@ -13,9 +13,9 @@
 <p align="center">
   <a href="https://github.com/Sugayoiya">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true&theme=light">
-      <img alt="github contribution grid snake animation" src="https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true&theme=light">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=light">
+      <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=git,github,docker,vim,apollo,clojure,py,java,spring,ai,jenkins,linux,mongodb,redis,mysql,postman,idea&theme=light">
     </picture>
   </a>
 </p>
