@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<div style="text-align: center;">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sugayoiya&rank=-C,-B&no-bg=true)]()
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/github-contribution-grid-snake.svg">
