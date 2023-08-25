@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/Sugayoiya">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-light.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/output/skills-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/skill/skill-icons-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/skill/skill-icons-light.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sugayoiya/Sugayoiya/skill/skill-icons-dark.svg">
     </picture>
   </a>
   <!-- comes from https://github.com/Sugayoiya/skill-icons --> 
